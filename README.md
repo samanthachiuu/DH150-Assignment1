@@ -53,7 +53,7 @@ Speak the users' language, with words, phrases and concepts familiar to the user
 Follow real-world conventions, making information appear in a natural and logical order. 
 Example: Right-left sign  
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 
@@ -78,7 +78,7 @@ Provide a clearly marked "out" to leave an unwanted state without having to go t
 Support undo and redo. 
 Example: No exit
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 
@@ -103,7 +103,7 @@ Users should not have to wonder whether different words, situations, or actions 
 Follow platform conventions.
 Example: button label (login), function of icon (go back home), location of the icon/menu/layout 
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 
@@ -134,7 +134,7 @@ Both: Some words are not clear to user what it means and can cause users to not 
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 Example: booking system that prevents the previous date to the departure, warning message about duplicated filename, password setting 
 
-Evaluation
+### Evaluation
 
 Prototype 1: 
 
@@ -159,7 +159,7 @@ User should not have to remember information from one part of the dialogue to an
 Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
 Example: 404 error (code errors), autofill
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 * After figuring out what is class planner and its functions, it is very easy for the user to recognize the other controls and register for other classes. (1)
@@ -180,7 +180,7 @@ Accelerators -- unseen by the novice user -- may often speed up the interaction 
 Allow users to tailor frequent actions. 
 Example: short cut, copy + paste 
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 * There are two ways to register for classes, and someone who is advanced and knows what they are doing will find classes through class planner, while a novice user might use “find a class and enroll” tab. (2)
@@ -200,7 +200,7 @@ Dialogues should not contain information which is irrelevant or rarely needed.
 Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
 Example: bad background design
 
-Evaluation
+### Evaluation
 
 Prototype 1: 
 * They use different colors for the different classes you register for. (1)
@@ -224,7 +224,7 @@ Precisely indicate the problem
 Constructively suggest a solution. 
 Example: required field*, internet connection warning, (404 error)
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 * When there is a time conflict with another class or if there is a pre-requisite for the class, there is an orange cone symbol that pops up to show that there could be a possible error. (1)
@@ -245,7 +245,7 @@ Even though it is better if the system can be used without documentation, it may
 Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 Example: help page, faq form, search, find out more – chat/online help, provide tour/training
 
-Evaluation
+### Evaluation
 
 Prototype 1:
 * Need help center is only operational through Monday – Fridays from 9am-4pm, which means that outside of those hours, you just have to fill out a survey and can not get direct help. (3)
