@@ -19,23 +19,22 @@ Myucla.edu is the UCLA system for students to enroll in their classes. Craigslis
 
 1. Visibility of system status 
 
-- Always keep users informed about what is going on.
-- Provide appropriate feedback within reasonable time.
+ Always keep users informed about what is going on.
+ Provide appropriate feedback within reasonable time.
 Example: Battery status, network status
 
 Evaluation
 Prototype 1: 
-- 
-- You have to login into your account for myucla before you can get into the class planner. (1)
-- Does a good job with giving the user an option to either add the class into the planner or to enroll ~ however, users might not know what the difference is. (1)
-- You have to use DUO login to login into the account (for example, you have to use your phone number that is connected to the account or have the app on your phone). (3) 
+ You have to login into your account for myucla before you can get into the class planner. (1)
+ Does a good job with giving the user an option to either add the class into the planner or to enroll ~ however, users might not know what the difference is. (1)
+ You have to use DUO login to login into the account (for example, you have to use your phone number that is connected to the account or have the app on your phone). (3) 
 
 Prototype 2:
-- Does not have to make an account when searching on the website – but needs an account if you want to purchase something. (1)
-- There is a calendar on the side column to show users which days they want to see because each days might have different listings. (1)
+ Does not have to make an account when searching on the website – but needs an account if you want to purchase something. (1)
+ There is a calendar on the side column to show users which days they want to see because each days might have different listings. (1)
 
 Both:
-- Both websites needed user to create an account if actually wanted to perform any action – and shows you that you are on your account clearly. 
+ Both websites needed user to create an account if actually wanted to perform any action – and shows you that you are on your account clearly. 
 
 2. Match between system and the real world 
 	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
