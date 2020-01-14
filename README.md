@@ -194,6 +194,7 @@ Every extra unit of information in a dialogue competes with the relevant units o
 Example: bad background design
 
 Evaluation
+
 Prototype 1: 
 * They use different colors for the different classes you register for. (1)
 * Hard to tell the difference between enrolled classes and classes on your plan. (3)
@@ -217,6 +218,7 @@ Constructively suggest a solution.
 Example: required field*, internet connection warning, (404 error)
 
 Evaluation
+
 Prototype 1:
 * When there is a time conflict with another class or if there is a pre-requisite for the class, there is an orange cone symbol that pops up to show that there could be a possible error. (1)
 * If you do not check all boxes before enrolling for the class, it will not let users enroll. (1)
@@ -237,6 +239,7 @@ Help  information should be easy to search, focused on the user's task, list con
 Example: help page, faq form, search, find out more – chat/online help, provide tour/training
 
 Evaluation
+
 Prototype 1:
 * Need help center is only operational through Monday – Fridays from 9am-4pm, which means that outside of those hours, you just have to fill out a survey and can not get direct help. (3)
 * It does not give any options or show you how to navigate the website at all. (3) 
