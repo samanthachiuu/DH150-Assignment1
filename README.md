@@ -69,7 +69,7 @@ Prototype 2:
 
 Both: For the most part, does a great job in trying to connect the system functions to what users would understand. 
 
-3. User control and freedom 
+## 3. User control and freedom 
 
 Users often choose system functions by mistake.
 
@@ -96,7 +96,7 @@ Prototype 2:
 
 Both: Allows user to cancel or get out of the website if wanted to. For example, can just exit out of the page. 
 
-4. Consistency and standards 
+## 4. Consistency and standards 
 
 Users should not have to wonder whether different words, situations, or actions mean the same thing. 
 
@@ -129,7 +129,7 @@ Prototype 2:
 
 Both: Some words are not clear to user what it means and can cause users to not understand how to navigate the website. 
 
-5. Error prevention 
+## 5. Error prevention 
 
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 Example: booking system that prevents the previous date to the departure, warning message about duplicated filename, password setting 
@@ -150,7 +150,7 @@ Prototype 2:
 
 Both: They have put restrictions on some functions to prevent users from errors. 
 
-6. Recognition rather than recall 
+## 6. Recognition rather than recall 
 
 Make objects, actions, and options visible. 
 
@@ -173,7 +173,7 @@ Prototype 2:
 
 Both: Does not have tutorials or walk throughs on the website. 
 
-7. Flexibility and efficiency of use 
+## 7. Flexibility and efficiency of use 
 
 Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
 
@@ -193,7 +193,7 @@ Prototype 2:
 
 Both: The websites are catered towards people who have been on the website before. 
 
-8. Aesthetic and minimalist design 
+## 8. Aesthetic and minimalist design 
 
 Dialogues should not contain information which is irrelevant or rarely needed. 
 
@@ -215,7 +215,7 @@ Prototype 2:
 
 Both: Both websites have too minimalistic designs that show no originality to their websites. Both have tight filled spaces. 
 
-9. Help users recognize, diagnose, and recover from errors 
+## 9. Help users recognize, diagnose, and recover from errors 
 
 Expressed in plain language (no codes)
 
@@ -238,7 +238,7 @@ Prototype 2:
 
 Both: Some errors might not recover the website and either lose the listing or lose the class user was looking at.  
 
-10. Help and documentation 
+## 10. Help and documentation 
 
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 
