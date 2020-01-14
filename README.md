@@ -8,6 +8,7 @@ Credit to Rutger University’s
 
 
 Prototype 1: Myucla.edu / Class Planner
+
  
 
 Prototype 2: Craigslist; craigslist.org
@@ -17,22 +18,24 @@ Prototype 2: Craigslist; craigslist.org
 Myucla.edu is the UCLA system for students to enroll in their classes. Craigslist is a selling and buying website where people can buy anything they desire and a website for finding jobs and events. My motivation and relevance for improving these websites is that I want to prove to myself that I can do this, and I can think like a designer. I will motivate myself to learn as much as I can and to think about what the user experience means. My motivation for myucla.edu is that I want to help other new students with any challenges they had when they first registered for classes. I definitely had a hard time as a freshman, and no one taught me anything, so I want to do this for any new users. My motivation for improving Craigslist is for my family and my close friends because everyone around me uses this website. If I was able to improve the user experience, they would have a better time browsing through the website without having any issues. I specifically chose to do myucla.edu and the process of enrolling for classes because I feel like this is something a lot of students go through and struggle with from the beginning. I chose to do Craigslist because it is something I personally have been using when I was browsing for a car and noticed little user issues that I wish the website could be better at. Overall, both websites are not too awful, as many people use both of these websites on a daily basis. However, there are little things that can be improved for these websites and can make even more users be inclined to the website. 
 
 1. Visibility of system status 
-	Always keep users informed about what is going on.
-	Provide appropriate feedback within reasonable time.
+
+- Always keep users informed about what is going on.
+- Provide appropriate feedback within reasonable time.
 Example: Battery status, network status
 
 Evaluation
 Prototype 1: 
-	You have to login into your account for myucla before you can get into the class planner. (1)
-	Does a good job with giving the user an option to either add the class into the planner or to enroll ~ however, users might not know what the difference is. (1)
-	You have to use DUO login to login into the account (for example, you have to use your phone number that is connected to the account or have the app on your phone). (3) 
+- 
+- You have to login into your account for myucla before you can get into the class planner. (1)
+- Does a good job with giving the user an option to either add the class into the planner or to enroll ~ however, users might not know what the difference is. (1)
+- You have to use DUO login to login into the account (for example, you have to use your phone number that is connected to the account or have the app on your phone). (3) 
 
 Prototype 2:
-	Does not have to make an account when searching on the website – but needs an account if you want to purchase something. (1)
-	There is a calendar on the side column to show users which days they want to see because each days might have different listings. (1)
+- Does not have to make an account when searching on the website – but needs an account if you want to purchase something. (1)
+- There is a calendar on the side column to show users which days they want to see because each days might have different listings. (1)
 
 Both:
-	Both websites needed user to create an account if actually wanted to perform any action – and shows you that you are on your account clearly. 
+- Both websites needed user to create an account if actually wanted to perform any action – and shows you that you are on your account clearly. 
 
 2. Match between system and the real world 
 	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
