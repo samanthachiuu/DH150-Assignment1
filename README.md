@@ -25,10 +25,10 @@ Provide appropriate feedback within reasonable time.
 
 Example: Battery status, network status
 
-Evaluation
+# Evaluation
 Prototype 1: 
 
-You have to login into your account for myucla before you can get into the class planner. (1)
+* You have to login into your account for myucla before you can get into the class planner. (1)
 
 Does a good job with giving the user an option to either add the class into the planner or to enroll ~ however, users might not know what the difference is. (1)
 
@@ -67,56 +67,80 @@ The different categories on the website mean exactly what they mean in real life
 Both: For the most part, does a great job in trying to connect the system functions to what users would understand. 
 
 3. User control and freedom 
-	Users often choose system functions by mistake.
-	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
-	Support undo and redo. 
+
+Users often choose system functions by mistake.
+
+Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
+
+Support undo and redo. 
 Example: No exit
 
 Evaluation
 Prototype 1:
-	Gives the user the option to cancel when in the process of enrolling in the class. (1)
-	If user accidentally chooses a class that they did not mean to choose, they cannot choose another but has to let it load out the classes that you chose first. (2)
-	Does not allow user to go back or it will tell you to log back in and start over. (3)
+
+Gives the user the option to cancel when in the process of enrolling in the class. (1)
+
+If user accidentally chooses a class that they did not mean to choose, they cannot choose another but has to let it load out the classes that you chose first. (2)
+
+Does not allow user to go back or it will tell you to log back in and start over. (3)
 
 Prototype 2:
-	Can use the back button on the website. (1)
-	Does a great job in giving the user an option to exit if wanted to. (1)
+
+Can use the back button on the website. (1)
+
+Does a great job in giving the user an option to exit if wanted to. (1)
 
 Both: Allows user to cancel or get out of the website if wanted to. For example, can just exit out of the page. 
 
 4. Consistency and standards 
-	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
-	Follow platform conventions.
+
+Users should not have to wonder whether different words, situations, or actions mean the same thing. 
+
+Follow platform conventions.
 Example: button label (login), function of icon (go back home), location of the icon/menu/layout 
 
 Evaluation
 Prototype 1:
-	Using similar words in the website like “enrollment”, or “enroll” consistently so users know what it means. (1)
-	Process of enrolling in one class is the same as enrolling in other classes. (1)
-	Users might not know what “subject area” means, but this is the easiest way for how you register for your classes. (3)
-	Users do not know what fiat luxes are – and does not explain anywhere on the website when registering for the classes. (3)
-	However, when figuring out what to do the first time, everything else is the same and it can be easier for users to do again. (1)
+
+Using similar words in the website like “enrollment”, or “enroll” consistently so users know what it means. (1)
+
+Process of enrolling in one class is the same as enrolling in other classes. (1)
+
+Users might not know what “subject area” means, but this is the easiest way for how you register for your classes. (3)
+
+Users do not know what fiat luxes are – and does not explain anywhere on the website when registering for the classes. (3)
+
+However, when figuring out what to do the first time, everything else is the same and it can be easier for users to do again. (1)
 
 Prototype 2:
-	When clicking on subheadings, it brings you to the page ~ the buttons are consistent in what it does. (1)
-	The words are consistent, with “owner” or “dealer”(1)
-	Location of the home page is in the same area so it is easy for users to remember (1)
-	Uses a bunch of different abbreviations that users might not know or understand what it means. (3)
+
+When clicking on subheadings, it brings you to the page ~ the buttons are consistent in what it does. (1)
+
+The words are consistent, with “owner” or “dealer”(1)
+
+Location of the home page is in the same area so it is easy for users to remember (1)
+
+Uses a bunch of different abbreviations that users might not know or understand what it means. (3)
 
 Both: Some words are not clear to user what it means and can cause users to not understand how to navigate the website. 
 
 5. Error prevention 
-	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
+
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 Example: booking system that prevents the previous date to the departure, warning message about duplicated filename, password setting 
 
 Evaluation
 Prototype 1: 
-	Myucla does not allow user to enroll in a class if they have no completed prerequisites ~warning pops up (1)
-	If there is a time conflict with a class, myucla gives a warning before user proceeds (1)
-	Even though some classes have time conflicts, myucla still allows student to enroll. (2)
+
+Myucla does not allow user to enroll in a class if they have no completed prerequisites ~warning pops up (1)
+
+If there is a time conflict with a class, myucla gives a warning before user proceeds (1)
+
+Even though some classes have time conflicts, myucla still allows student to enroll. (2)
 
 Prototype 2:
-	 
+
+User does not allow 
 
 Both: 
 6. Recognition rather than recall 
