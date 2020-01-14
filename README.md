@@ -27,6 +27,7 @@ Provide appropriate feedback within reasonable time.
 Example: Battery status, network status
 
 Evaluation
+
 Prototype 1: 
 
 * You have to login into your account for myucla before you can get into the class planner. (1)
@@ -53,6 +54,7 @@ Follow real-world conventions, making information appear in a natural and logica
 Example: Right-left sign  
 
 Evaluation
+
 Prototype 1:
 
 * People might not understand what “Degree Audit Report” means, but you need to go into that in order to figure out what classes to take. (2)
@@ -77,6 +79,7 @@ Support undo and redo.
 Example: No exit
 
 Evaluation
+
 Prototype 1:
 
 * Gives the user the option to cancel when in the process of enrolling in the class. (1)
@@ -101,6 +104,7 @@ Follow platform conventions.
 Example: button label (login), function of icon (go back home), location of the icon/menu/layout 
 
 Evaluation
+
 Prototype 1:
 
 * Using similar words in the website like “enrollment”, or “enroll” consistently so users know what it means. (1)
@@ -131,6 +135,7 @@ Even better than good error messages is a careful design which prevents a proble
 Example: booking system that prevents the previous date to the departure, warning message about duplicated filename, password setting 
 
 Evaluation
+
 Prototype 1: 
 
 * Myucla does not allow user to enroll in a class if they have no completed prerequisites ~warning pops up (1)
@@ -155,6 +160,7 @@ Instructions for use of the system should be visible or easily retrievable whene
 Example: 404 error (code errors), autofill
 
 Evaluation
+
 Prototype 1:
 * After figuring out what is class planner and its functions, it is very easy for the user to recognize the other controls and register for other classes. (1)
 * There is autofill when user is typing in the classes which makes it easier for user to find the class. (1)
@@ -175,6 +181,7 @@ Allow users to tailor frequent actions.
 Example: short cut, copy + paste 
 
 Evaluation
+
 Prototype 1:
 * There are two ways to register for classes, and someone who is advanced and knows what they are doing will find classes through class planner, while a novice user might use “find a class and enroll” tab. (2)
 * Myucla makes users have to go into their DARS report, in a totally different tab and part of the website to find out which classes they need to take – and then have to go back to class planner to see if they offer the class. (3)
