@@ -9,7 +9,8 @@ Credit to Rutger University’s
 
 Prototype 1: Myucla.edu / Class Planner
 
- 
+ <img width="1271" alt="Screen Shot 2020-01-13 at 11 00 41 PM" src="https://user-images.githubusercontent.com/59623131/72328734-55ab2680-3668-11ea-85fe-1ee492ad948a.png">
+
 
 Prototype 2: Craigslist; craigslist.org
 
