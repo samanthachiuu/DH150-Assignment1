@@ -3,7 +3,7 @@ Samantha Chiu
 DH 150
 January 10th, 2020
 
-ASSIGNMENT 1: Heuristics Evaluation of UCLA Class Planner (Prototype 1) and Craigslist (Prototype 2) 
+## ASSIGNMENT 1: Heuristics Evaluation of UCLA Class Planner (Prototype 1) and Craigslist (Prototype 2) 
 Credit to Rutger University’s
 
 
