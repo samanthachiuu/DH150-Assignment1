@@ -27,6 +27,13 @@ After the last task was completed, the test administrator asked the participant 
 
 In addition, the test administrator asked about product satisfaction such as the aesthetic of the website and how the participant felt when looking at the website. 
 
-## Step 1:
+## Step 1: Test Materials
 https://forms.gle/XE8Yh3xmRgxPa93F6
+
+## Step 2: Video
+
+
+## Step 3: Reflection
+
+What I learned during the pilot test is that there could be many things that you might not expect the user to do and might be very unexpected, but the best thing to do is to go with the flow and make sure the user feels comfortable. Additionally, the pilot testing might take longer than expected because the user might be stuck on a certain question longer than others. What went well during the pilot testing was that the user did not give up and was able to go through all the tasks without feeling bad that they did not get every question. I wanted to make sure the user was comfortable and right, and that went really well. What did not go so well was the fact that I did not expect the user to take as long as she did because I told her beforehand that it would only take about 15 minutes. She was confused about some tasks but she just skipped the ones that she did not know and moved on. How I want to improve the UT in the future is that I hope to have more tasks that represented different heuristics and give the user more options for some of the questions. Additionally, I would be more prepared with the screen recording because it was difficult to find a software that would record for more than 10 minutes. Overall, it was a great pilot UT session. 
 
