@@ -32,6 +32,19 @@ https://forms.gle/XE8Yh3xmRgxPa93F6
 
 ## Step 2: Video
 
+Part 1 of Screen-recording 
+https://www.youtube.com/watch?v=572J0g36EaI
+
+Part 2 of Screen-recording
+https://www.youtube.com/watch?v=mx8yX95eh4s
+
+Part 1 of Video of reactions and audio:
+https://www.youtube.com/watch?v=gIz0_eleLbc
+
+Part 2 of Video of reactions and audio:
+https://www.youtube.com/watch?v=_lbBM8g_sZs
+
+I had to split the videos in half for each because the file was too big. 
 
 ## Step 3: Reflection
 
