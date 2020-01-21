@@ -12,8 +12,11 @@ The rationale behind the UT for this website was because of the main user functi
 The test administrator contacted and recruited participants from the list of students that have not used this website before. The test administrator sent a text to an attendee informing them of the test logistics and requesting their availability and participation. The participant responded with an appropriate date and time. The UT session lasted approximately thirty minutes. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire and pretest questionannaire that asked background information about the website and whether or not the participant have used the website before. The administrator read the task scenarios and asked the participant to try to find the information on the website. 
 
 After each task, the administrator asked the participant to complete the post-task scenario subjective measures that included: 
+
 •	How easy or difficult it was to perform the different tasks.
+
 •	How much time was needed to complete the task.
+
 •	How likely you think you would do this task.
 
 After the last task was completed, the test administrator asked the participant to rate the system usability by asking several questions regarding the usability of the website by using a 7-point Likert scale (Strongly Disagree to Strongly Agree) for eight subjective measures including:
@@ -23,10 +26,15 @@ After the last task was completed, the test administrator asked the participant 
 •	Frequency of use
 
 •	Difficulty to keep track of location in website
+
 •	Learn ability  - how easy it would be for most users to learn to use the website
+
 •	Information facilitation – how quickly participant could find information
+
 •	Look & feel appeal – homepage’s content makes me want to explore the site further
-•	Site content – site’s content would keep me coming back 
+
+•	Site content – site’s content would keep me coming back
+
 
 In addition, the test administrator asked about product satisfaction such as the aesthetic of the website and how the participant felt when looking at the website. 
 
