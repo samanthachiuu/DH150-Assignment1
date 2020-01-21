@@ -36,23 +36,17 @@ Part 1 of Screen-recording
 https://www.youtube.com/watch?v=572J0g36EaI
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/572J0g36EaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Part 2 of Screen-recording
 https://www.youtube.com/watch?v=mx8yX95eh4s
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mx8yX95eh4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Part 1 of Video of reactions and audio:
 https://www.youtube.com/watch?v=gIz0_eleLbc
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gIz0_eleLbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Part 2 of Video of reactions and audio:
 https://www.youtube.com/watch?v=_lbBM8g_sZs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_lbBM8g_sZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I had to split the videos in half for each because the file was too big. 
 
