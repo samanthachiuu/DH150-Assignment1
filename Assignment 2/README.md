@@ -17,7 +17,7 @@ After each task, the administrator asked the participant to complete the post-ta
 •	How likely you think you would do this task.
 
 After the last task was completed, the test administrator asked the participant to rate the system usability by asking several questions regarding the usability of the website by using a 7-point Likert scale (Strongly Disagree to Strongly Agree) for eight subjective measures including:
-•	Ease of use
+## •	Ease of use
 •	Frequency of use
 •	Difficulty to keep track of location in website
 •	Learn ability  - how easy it would be for most users to learn to use the website
