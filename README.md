@@ -3,18 +3,20 @@ Samantha Chiu
 DH 150
 January 10th, 2020
 
-## ASSIGNMENT 1: Heuristics Evaluation of UCLA Class Planner (Prototype 1) and Craigslist (Prototype 2) 
+## ASSIGNMENT 1: Heuristics Evaluation of UCLA Class Planner (Website 1) and Craigslist (Website 2) 
 Credit to Rutger University’s
 
 
-Prototype 1: Myucla.edu / Class Planner
+Website 1: Myucla.edu / Class Planner
 
  <img width="1271" alt="Screen Shot 2020-01-13 at 11 00 41 PM" src="https://user-images.githubusercontent.com/59623131/72328734-55ab2680-3668-11ea-85fe-1ee492ad948a.png">
 
 
-Prototype 2: Craigslist; craigslist.org
+Website 2: Craigslist; craigslist.org
 
  <img width="1268" alt="Screen Shot 2020-01-13 at 10 58 48 PM" src="https://user-images.githubusercontent.com/59623131/72328811-7d9a8a00-3668-11ea-9463-ce81e319e067.png">
+
+The communities I want to contribute more specifically are within the time management and scheduling community and the retail and selling community. I am interested in the scheduling and time management community because as a student, I understand what it is like to be overwhelmed with many classes and meetings to attend, while balancing other activities. The retail and selling community is a community that I am interested in exploring more about. 
 
 Myucla.edu is the UCLA system for students to enroll in their classes. Craigslist is a selling and buying website where people can buy anything they desire and a website for finding jobs and events. My motivation and relevance for improving these websites is that I want to prove to myself that I can do this, and I can think like a designer. I will motivate myself to learn as much as I can and to think about what the user experience means. My motivation for myucla.edu is that I want to help other new students with any challenges they had when they first registered for classes. I definitely had a hard time as a freshman, and no one taught me anything, so I want to do this for any new users. My motivation for improving Craigslist is for my family and my close friends because everyone around me uses this website. If I was able to improve the user experience, they would have a better time browsing through the website without having any issues. I specifically chose to do myucla.edu and the process of enrolling for classes because I feel like this is something a lot of students go through and struggle with from the beginning. I chose to do Craigslist because it is something I personally have been using when I was browsing for a car and noticed little user issues that I wish the website could be better at. Overall, both websites are not too awful, as many people use both of these websites on a daily basis. However, there are little things that can be improved for these websites and can make even more users be inclined to the website. 
 
